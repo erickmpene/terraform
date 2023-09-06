@@ -21,6 +21,9 @@ export PATH=$PATH:/usr/local/bin
 aws configure
 ```
 AWS Access Key ID [None]: => # Your Access Key (access programmation)
+
 AWS Secret Access Key [None]: => # Your Secret Key
+
 Default region name [None]: => # Default region. Example : us-east-1 
+
 Default output format [None]: => json (for me)
