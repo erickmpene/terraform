@@ -20,5 +20,10 @@ terraform --version
 => Terraform v1.5.6
 on linux_amd64
 
+#### 3. Enable commpletion
+```sh
+terraform -install-autocomplete
+```
+
 ### Enjoy ! d(o_o)b
 
