@@ -28,6 +28,6 @@ Default region name [None]: => # Default region. Example : us-east-1
 
 Default output format [None]: => json (for me)
 
-if you want to see the credentials you have configured, it is in the "~/.aws" folder
+if you want to see the configuration you have configured, it is in the "~/.aws" folder
 
 #### Enjoy ! d(o_o)b 
